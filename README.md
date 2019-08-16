@@ -1,5 +1,7 @@
 # ı_a_phishing
 
+Feel free to contact if you encounter interesting phishing methods: joefreedy[at]protonmail.com
+
 WeTransfer: 
 
 ![alt text](https://github.com/Joefreedy/I_a_phishing/blob/master/img/wetransfer.png "WeTransfer")
